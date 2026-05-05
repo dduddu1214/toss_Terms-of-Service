@@ -2,10 +2,10 @@
 
 GitHub Pages 호스팅 (base: `https://dduddu1214.github.io/toss_Terms-of-Service/`)
 
-## 토끼운세
+## 운세토끼
 
-- 개인정보 처리방침: https://dduddu1214.github.io/toss_Terms-of-Service/rabbit-fortune-privacy-policy.html
-- 서비스 이용약관: https://dduddu1214.github.io/toss_Terms-of-Service/rabbit-fortune-terms-of-service.html
+- 개인정보 처리방침: https://dduddu1214.github.io/toss_Terms-of-Service/fortune-rabbit-privacy-policy.html
+- 서비스 이용약관: https://dduddu1214.github.io/toss_Terms-of-Service/fortune-rabbit-terms-of-service.html
 
 ## 야옹로또
 

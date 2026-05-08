@@ -7,6 +7,11 @@ GitHub Pages 호스팅 (base: `https://dduddu1214.github.io/toss_Terms-of-Servic
 - 개인정보 처리방침: https://dduddu1214.github.io/toss_Terms-of-Service/fortune-rabbit-privacy-policy.html
 - 서비스 이용약관: https://dduddu1214.github.io/toss_Terms-of-Service/fortune-rabbit-terms-of-service.html
 
+## 매일 MBTI 운세
+
+- 개인정보 처리방침: https://dduddu1214.github.io/toss_Terms-of-Service/daily-mbti-fortune-privacy-policy.html
+- 서비스 이용약관: https://dduddu1214.github.io/toss_Terms-of-Service/daily-mbti-fortune-terms-of-service.html
+
 ## 야옹로또
 
 - 개인정보 처리방침: https://dduddu1214.github.io/toss_Terms-of-Service/meow-lotto-privacy-policy.html
